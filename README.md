@@ -4,6 +4,16 @@ HEAD>>>>>
 
 # ♻️ Reboot Eco
 
+## 📸 Screenshots
+
+![Home](images/home.png)
+
+![Donation](images/donation.png)
+
+![Wallet](images/wallet.png)
+
+![Profile](images/profile.png)
+
 > A sustainable platform that encourages the proper disposal of electronic waste through public school collection points and a digital rewards system called **ECO**.
 
 ![Status](https://img.shields.io/badge/Status-Prototype-success)
