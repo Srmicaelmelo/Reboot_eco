@@ -1,18 +1,4 @@
-# Reboot_eco
-
-HEAD>>>>>  
-
 # ♻️ Reboot Eco
-
-## 📸 Screenshots
-
-![Home](images/home.png)
-
-![Donation](images/donation.png)
-
-![Wallet](images/wallet.png)
-
-![Profile](images/profile.png)
 
 > A sustainable platform that encourages the proper disposal of electronic waste through public school collection points and a digital rewards system called **ECO**.
 
@@ -225,5 +211,3 @@ Developed as a Capstone Project for the **Systems Analysis and Development Progr
 This project was developed for academic purposes.
 
 
-
-<<<<<<
