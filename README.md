@@ -186,11 +186,11 @@ Reducing environmental impacts caused by electronic waste.
 
 | Member |
 |----------|
-| Camily Felipe de Oliveira |
-| Carlos Eduardo da Silva Santos |
-| Iris Presley de Oliveira Costa |
-| Micael Ferreira de Melo |
-| Victor Basílio P. da Silva |
+| Camily Felipe de Oliveira | Desing UI/UX |
+| Carlos Eduardo da Silva Santos | Frontend Developer |
+| Iris Presley de Oliveira Costa | Manager |
+| Micael Ferreira de Melo | Backend Developer |
+| Victor Basílio P. da Silva |  Researcher |
 
 ---
 
