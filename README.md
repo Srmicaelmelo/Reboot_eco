@@ -198,6 +198,15 @@ Reducing environmental impacts caused by electronic waste.
 
 Developed as a Capstone Project for the **Systems Analysis and Development Program**, focusing on sustainability, digital transformation, and social innovation.
 
+  Interaction Design / UX – EcoMap app user experience, registration flows, and interface design.
+
+  Innovation / Business Model – Tokens, gamification strategies, and ESG partnerships.
+
+  Project Management – Schedule, scope, risk management, and implementation roadmap.
+
+  Extension Unit / Community Outreach – Social impact, sustainability, and community integration.
+
+
 ---
 
 ## 🔮 Future Improvements
@@ -214,7 +223,7 @@ Developed as a Capstone Project for the **Systems Analysis and Development Progr
 ## 📄 License
 
 This project was developed for academic purposes.
-Academic Advisor / Professor: Prof. Samantha 
+Academic Advisor / Professor: Samantha Pimentel
 
 Tech English Course Professor: Prof. Leonardo Trevas 
 
