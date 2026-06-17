@@ -186,11 +186,11 @@ Reducing environmental impacts caused by electronic waste.
 
 | Member |
 |----------|
-| Camily Felipe de Oliveira | Desing UI/UX |
-| Carlos Eduardo da Silva Santos | Frontend Developer |
-| Iris Presley de Oliveira Costa | Manager |
-| Micael Ferreira de Melo | Backend Developer |
-| Victor Basílio P. da Silva |  Researcher |
+| Camily Felipe de Oliveira / Desing UI/UX |
+| Carlos Eduardo da Silva Santos / Frontend Developer |
+| Iris Presley de Oliveira Costa / Manager |
+| Micael Ferreira de Melo / Backend Developer |
+| Victor Basílio P. da Silva /  Researcher |
 
 ---
 
@@ -214,5 +214,8 @@ Developed as a Capstone Project for the **Systems Analysis and Development Progr
 ## 📄 License
 
 This project was developed for academic purposes.
+Academic Advisor / Professor: Prof. Samantha 
+
+Tech English Course Professor: Prof. Leonardo Trevas 
 
 
